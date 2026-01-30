@@ -1,1 +1,24 @@
-Primeiro Repo
+O que é controle de versão?
+ 
+Uma técnica que ajuda a gerenciar o código fonte de uma aplicação, registrando todas as modificações de código, podem também reverter as mesmas.
+
+Criando versões de um software em diferentes estágios, podendo alterar facilmente entre elas.
+
+Comandos fundamentais do git:
+git status | Serve para verificar o estado atual do seu repositorio git
+
+git init   | Para inicializar o repositorio
+
+git add    | Para adicionar o git para o commit
+
+git commit -m | Para adicionar uma mensagem sobre o commit
+
+git branch -M master | serve para criar uma branch master que seria a principal do projeto
+
+git remote add origin |Serve para adicionar a origem aonde o repo vai ser enviado
+
+git push | serve para enviar o repo pro GitHub
+
+git remote -v | serve para ver as origins 
+
+git remote rm origin | serve para excluir a as origins
