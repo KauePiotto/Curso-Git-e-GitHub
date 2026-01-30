@@ -5,9 +5,9 @@ Uma técnica que ajuda a gerenciar o código fonte de uma aplicação, registran
 Criando versões de um software em diferentes estágios, podendo alterar facilmente entre elas.
 
 ____________________________________________________________________________________________________________________________________________________________________________
+Seção 2 - Comandos fundamentais do git:
 
 
-Comandos fundamentais do git:
 git status | Serve para verificar o estado atual do seu repositório git
 
 git init   | Para inicializar o repositório
@@ -43,3 +43,5 @@ git checkout | Serve para retorna para estado original apos uma mudança errada
 git reset --hard | Serve para resetar a brand como se fosse nova
 
 ____________________________________________________________________________________________________________________________________________________________________________
+Seção 3 - Trabalhando com branch
+
