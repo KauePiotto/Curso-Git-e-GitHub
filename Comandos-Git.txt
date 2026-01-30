@@ -4,10 +4,13 @@ Uma técnica que ajuda a gerenciar o código fonte de uma aplicação, registran
 
 Criando versões de um software em diferentes estágios, podendo alterar facilmente entre elas.
 
-Comandos fundamentais do git:
-git status | Serve para verificar o estado atual do seu repositorio git
+____________________________________________________________________________________________________________________________________________________________________________
 
-git init   | Para inicializar o repositorio
+
+Comandos fundamentais do git:
+git status | Serve para verificar o estado atual do seu repositório git
+
+git init   | Para inicializar o repositório
 
 git add    | Para adicionar o git para o commit
 
@@ -22,3 +25,21 @@ git push | serve para enviar o repo pro GitHub
 git remote -v | serve para ver as origins 
 
 git remote rm origin | serve para excluir a as origins
+
+git pull | Para receber uma atualização do projeto
+
+git clone | para puxar o repo do GitHub
+
+git rm | Serve para remover um arquivo
+
+git log | Serve para verificar as alterações feitas
+
+git mv | Serve para renomear os arquivos ou mudar o arquivo de lugar
+
+git checkout | Serve para retorna para estado original apos uma mudança errada
+
+.gitignore | Serve para quando voce quer ignorar algo desnecessário e deve ser colocado na raiz do projeto
+
+git reset --hard | Serve para resetar a brand como se fosse nova
+
+____________________________________________________________________________________________________________________________________________________________________________
