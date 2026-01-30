@@ -22,3 +22,4 @@ git push | serve para enviar o repo pro GitHub
 git remote -v | serve para ver as origins 
 
 git remote rm origin | serve para excluir a as origins
+
